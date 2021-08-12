@@ -12,6 +12,18 @@ Some select skins for the [wardrobe](https://content.minetest.net/packages/Antum
 - Code: [MIT](LICENSE.txt)
 - Textures: See [sources section](#sources)
 
+### Usage
+
+#### Settings
+
+To disable a skin, add `wardrobe_outfits.enable_<filename> = false` to configuration. `filename` may be different than displayed name. Special characters are not supported & whitespace is replaced with underscores.
+
+Example:
+```conf
+# disable "Chloé" skin
+wardrobe_outfits.enable_Chloe = false
+```
+
 #### Sources
 
 | Name / Source    | Author     | License      |
