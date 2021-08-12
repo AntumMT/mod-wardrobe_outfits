@@ -12,9 +12,10 @@ Some select skins for the [wardrobe](https://content.minetest.net/packages/Antum
 
 #### Sources
 
-| Name / Source | Author    | License      |
-| ------------- | --------- | ------------ |
-| [Ashley][]    | loupicate | CC BY-SA 3.0 |
+| Name / Source    | Author     | License      |
+| ---------------- | ---------- | ------------ |
+| [Ashley][]       | loupicate  | CC BY-SA 3.0 |
+| [Bluez Sam II][] | philipbenr | CC BY-SA 3.0 |
 
 ### Links
 
@@ -24,3 +25,4 @@ Some select skins for the [wardrobe](https://content.minetest.net/packages/Antum
 
 
 [Ashley]: http://minetest.fensta.bplaced.net/#id=885
+[Bluez Sam II]: http://minetest.fensta.bplaced.net/#id=143
