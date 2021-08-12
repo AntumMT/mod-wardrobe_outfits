@@ -5,6 +5,8 @@
 
 Some select skins for the [wardrobe](https://content.minetest.net/packages/AntumDeluge/wardrobe_ad/).
 
+![preview](screenshot.png)
+
 ### Licensing
 
 - Code: [MIT](LICENSE.txt)
