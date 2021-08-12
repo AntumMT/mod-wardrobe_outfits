@@ -5,3 +5,4 @@ next
 	- Ashley
 	- Bluez Sam II
 	- CaligoPL
+	- Charlotte

@@ -2,3 +2,4 @@
 wardrobe_outfits.enable_Ashley (Enable Ashley skin) bool true
 wardrobe_outfits.enable_Bluez_Sam_II (Enable Bluez Sam II skin) bool true
 wardrobe_outfits.enable_CaligoPL (Enable CaligoPL skin) bool true
+wardrobe_outfits.enable_Charlotte (Enable Charlotte skin) bool true
