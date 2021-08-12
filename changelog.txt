@@ -4,3 +4,4 @@ next
 - added skins:
 	- Ashley
 	- Bluez Sam II
+	- CaligoPL
