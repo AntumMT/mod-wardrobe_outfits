@@ -1,6 +1,7 @@
 
-next
+v1.0
 ----
+- initial release
 - added skins:
 	- Ashley
 	- Bluez Sam II
