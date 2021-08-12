@@ -11,3 +11,4 @@ next
 	- Coralie
 	- Emma
 	- Fiona
+	- Grégoire
