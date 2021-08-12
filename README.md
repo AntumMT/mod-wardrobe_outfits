@@ -28,6 +28,7 @@ Some select skins for the [wardrobe](https://content.minetest.net/packages/Antum
 | [Julia][]        | nelly      | CC BY-SA 3.0 |
 | [Lisa][]         | hansuke123 | CC BY-SA 3.0 |
 | [Morgane][]      | loupicate  | CC BY-SA 3.0 |
+| [Super Nerd][]   | julito     | CC BY-SA 3.0 |
 
 ### Links
 
@@ -50,3 +51,4 @@ Some select skins for the [wardrobe](https://content.minetest.net/packages/Antum
 [Julia]: http://minetest.fensta.bplaced.net/#id=859
 [Lisa]: http://minetest.fensta.bplaced.net/#id=88
 [Morgane]: http://minetest.fensta.bplaced.net/#id=864
+[Super Nerd]: http://minetest.fensta.bplaced.net/#id=1030

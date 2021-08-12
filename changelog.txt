@@ -16,3 +16,4 @@ next
 	- Julia
 	- Lisa
 	- Morgane
+	- Super Nerd
