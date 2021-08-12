@@ -1,0 +1,2 @@
+
+wardrobe_outfits.enable_Ashley (Enable Ashley skin) bool true
