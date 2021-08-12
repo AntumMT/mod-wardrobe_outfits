@@ -35,6 +35,7 @@ Some select skins for the [wardrobe](https://content.minetest.net/packages/Antum
 
 ### Links
 
+- [![ContentDB](https://content.minetest.net/packages/AntumDeluge/wardrobe_outfits/shields/title/)](https://content.minetest.net/packages/AntumDeluge/wardrobe_outfits/)
 - [Forum](https://forum.minetest.net/viewtopic.php?t=27166)
 - [Git repo](https://github.com/AntumMT/mod-wardrobe_outfits)
 - [Changelog](changelog.txt)
