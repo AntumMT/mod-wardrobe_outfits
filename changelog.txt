@@ -12,3 +12,4 @@ next
 	- Emma
 	- Fiona
 	- Grégoire
+	- Iris
