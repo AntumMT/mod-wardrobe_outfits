@@ -13,3 +13,4 @@ next
 	- Fiona
 	- Grégoire
 	- Iris
+	- Julia
