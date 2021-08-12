@@ -7,11 +7,6 @@ Some select skins for the [wardrobe](https://content.minetest.net/packages/Antum
 
 ![preview](screenshot.png)
 
-### Licensing
-
-- Code: [MIT](LICENSE.txt)
-- Textures: See [sources section](#sources)
-
 ### Usage
 
 #### Settings
@@ -23,6 +18,11 @@ Example:
 # disable "Chloé" skin
 wardrobe_outfits.enable_Chloe = false
 ```
+
+### Licensing
+
+- Code: [MIT](LICENSE.txt)
+- Textures: See [sources section](#sources)
 
 #### Sources
 
