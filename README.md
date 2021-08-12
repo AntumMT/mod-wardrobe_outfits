@@ -33,6 +33,7 @@ Some select skins for the [wardrobe](https://content.minetest.net/packages/Antum
 
 ### Links
 
+- [Forum](https://forum.minetest.net/viewtopic.php?t=27166)
 - [Git repo](https://github.com/AntumMT/mod-wardrobe_outfits)
 - [Changelog](changelog.txt)
 - [TODO](TODO.txt)
