@@ -18,6 +18,7 @@ Some select skins for the [wardrobe](https://content.minetest.net/packages/Antum
 | [Bluez Sam II][] | philipbenr | CC BY-SA 3.0 |
 | [CaligoPL][]     | CaligoPL   | CC BY-SA 3.0 |
 | [Charlotte][]    | Sporax     | CC BY-SA 3.0 |
+| [Chloé][]        | nelly      | CC BY-SA 3.0 |
 
 ### Links
 
@@ -30,3 +31,4 @@ Some select skins for the [wardrobe](https://content.minetest.net/packages/Antum
 [Bluez Sam II]: http://minetest.fensta.bplaced.net/#id=143
 [CaligoPL]: http://minetest.fensta.bplaced.net/#id=99
 [Charlotte]: http://minetest.fensta.bplaced.net/#id=852
+[Chloé]: http://minetest.fensta.bplaced.net/#id=847
