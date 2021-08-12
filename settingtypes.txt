@@ -4,3 +4,4 @@ wardrobe_outfits.enable_Bluez_Sam_II (Enable Bluez Sam II skin) bool true
 wardrobe_outfits.enable_CaligoPL (Enable CaligoPL skin) bool true
 wardrobe_outfits.enable_Charlotte (Enable Charlotte skin) bool true
 wardrobe_outfits.enable_Chloe (Enable Chloé skin) bool true
+wardrobe_outfits.enable_Cloe (Enable Cloé skin) bool true

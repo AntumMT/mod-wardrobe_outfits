@@ -7,3 +7,4 @@ next
 	- CaligoPL
 	- Charlotte
 	- Chloé
+	- Cloé
