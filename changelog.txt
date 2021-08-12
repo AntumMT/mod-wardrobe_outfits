@@ -14,3 +14,4 @@ next
 	- Grégoire
 	- Iris
 	- Julia
+	- Lisa

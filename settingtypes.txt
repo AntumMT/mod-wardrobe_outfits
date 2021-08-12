@@ -11,3 +11,4 @@ wardrobe_outfits.enable_Fiona (Enable Fiona skin) bool true
 wardrobe_outfits.enable_Gregoire (Enable Grégoire skin) bool true
 wardrobe_outfits.enable_Iris (Enable Iris skin) bool true
 wardrobe_outfits.enable_Julia (Enable Julia skin) bool true
+wardrobe_outfits.enable_Lisa (Enable Lisa skin) bool true

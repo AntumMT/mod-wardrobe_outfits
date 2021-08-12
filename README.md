@@ -26,6 +26,7 @@ Some select skins for the [wardrobe](https://content.minetest.net/packages/Antum
 | [Grégoire][]     | Sporax     | CC BY-SA 3.0 |
 | [Iris][]         | loupicate  | CC BY-SA 3.0 |
 | [Julia][]        | nelly      | CC BY-SA 3.0 |
+| [Lisa][]         | hansuke123 | CC BY-SA 3.0 |
 
 ### Links
 
@@ -46,3 +47,4 @@ Some select skins for the [wardrobe](https://content.minetest.net/packages/Antum
 [Grégoire]: http://minetest.fensta.bplaced.net/#id=850
 [Iris]: http://minetest.fensta.bplaced.net/#id=862
 [Julia]: http://minetest.fensta.bplaced.net/#id=859
+[Lisa]: http://minetest.fensta.bplaced.net/#id=88
