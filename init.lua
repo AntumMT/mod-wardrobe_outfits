@@ -7,6 +7,7 @@ local all_skins = {
 	{"Chloe", "Chloé"},
 	{"Cloe", "Cloé"},
 	"Coralie",
+	"Emma",
 }
 
 for _, skin in ipairs(all_skins) do

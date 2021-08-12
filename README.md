@@ -21,6 +21,7 @@ Some select skins for the [wardrobe](https://content.minetest.net/packages/Antum
 | [Chloé][]        | nelly      | CC BY-SA 3.0 |
 | [Cloé][]         | Sporax     | CC BY-SA 3.0 |
 | [Coralie][]      | loupicate  | CC BY-SA 3.0 |
+| [Emma][]         | Cidney7760 | CC BY-SA 3.0 |
 
 ### Links
 
@@ -36,3 +37,4 @@ Some select skins for the [wardrobe](https://content.minetest.net/packages/Antum
 [Chloé]: http://minetest.fensta.bplaced.net/#id=847
 [Cloé]: http://minetest.fensta.bplaced.net/#id=851
 [Coralie]: http://minetest.fensta.bplaced.net/#id=894
+[Emma]: http://minetest.fensta.bplaced.net/#id=101

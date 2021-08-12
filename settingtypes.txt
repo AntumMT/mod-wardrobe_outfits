@@ -6,3 +6,4 @@ wardrobe_outfits.enable_Charlotte (Enable Charlotte skin) bool true
 wardrobe_outfits.enable_Chloe (Enable Chloé skin) bool true
 wardrobe_outfits.enable_Cloe (Enable Cloé skin) bool true
 wardrobe_outfits.enable_Coralie (Enable Coralie skin) bool true
+wardrobe_outfits.enable_Emma (Enable Emma skin) bool true
